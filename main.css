@@ -68,12 +68,12 @@ margin-top: -7px;}
     
     }
      .navbarlink:hover{
-        background-image: linear-gradient(hsl(136, 65%, 51%)
-         hsl(192, 70%, 51%));
+        background-image: linear-gradient(hsl(19, 98%, 50%)
+         hsl(78, 70%, 51%));
     }
 
   li a{
-      color: hsl(233, 26%, 24%);
+      color: hsl(233, 81%, 54%);
       font-weight: 450;
   }
   /* li a:hover{
@@ -125,7 +125,7 @@ background-size: cover; */
 .text h1{
     font-size: 36px;
     font-weight: normal;
-    color: hsl(233, 26%, 24%);
+    color: hsl(196, 15%, 53%);
     line-height: 50px;
     text-align: center;
 }

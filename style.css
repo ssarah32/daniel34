@@ -100,7 +100,7 @@ z-index: 999;
       position: relative;
   }
   li a:hover{
-      color: hsl(128, 67%, 40%);
+      color: hsl(24, 67%, 40%);
       text-decoration: underline;
       text-underline-offset: 20px;
       /* border: 2px solid lime; */
@@ -144,7 +144,7 @@ nav ul li a::before{
    }
    .welcsection{
        width: 100%;
-       background-color: hsl(0, 0%, 98%);
+       background-color: hsl(0, 94%, 25%);
 ;
    }
 .welcsection{
@@ -189,7 +189,7 @@ background-size: cover;
    .text h1{
        font-size: 36px;
        font-weight: normal;
-       color: hsl(233, 26%, 24%);
+       color: hsl(54, 26%, 24%);
        line-height: 50px;
    }
    .text h1 span{
@@ -222,7 +222,7 @@ background-size: cover;
    .heading-secondary{
        font-size: 3rem;
        font-weight: normal;
-       color:  hsl(233, 26%, 24%);
+       color:  hsl(233, 83%, 55%);
        line-height: 45px;
    }
    .aboutitem{
@@ -317,7 +317,7 @@ footer{
     color: hsl(220, 16%, 96%);}
 
 .footer-links ul li a:hover{
-    color: hsl(136, 65%, 51%);
+    color: hsl(0, 65%, 51%);
 }
 .toggle{
     display: none;
